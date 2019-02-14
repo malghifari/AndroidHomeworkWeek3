@@ -12,8 +12,8 @@ public class FetchBook extends AsyncTask<String, Void, String> {
         this.mAuthorText = mAuthorText;
     }
     @Override
-    protected String doInBackground(String... strings) {
-        return null;
+    protected String doInBackground(String... params) {
+        return NetworkUtils.getBookInfo(params[0]);
     }
 
     @Override

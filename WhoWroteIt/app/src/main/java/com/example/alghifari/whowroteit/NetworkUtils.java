@@ -1,8 +1,10 @@
 package com.example.alghifari.whowroteit;
 
 import android.net.Uri;
+import android.util.Log;
 
 import java.io.BufferedReader;
+import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
@@ -46,11 +48,22 @@ public class NetworkUtils {
                 return null;
             }
             bookJsonString = buffer.toString();
-        } catch (Exception ex) {
-            ex.printStackTrace();
-
+        } catch (IOException e) {
+            e.printStackTrace();
+            return null;
         } finally {
-            return bookJsonString;
+            if (urlConnection != null) {
+                urlConnection.disconnect();
+            }
+            if (reader != null) {
+                try {
+                    reader.close();
+                } catch (IOException e) {
+                    e.printStackTrace();
+                }
+            }
         }
+        Log.d(LOG_TAG, bookJsonString);
+        return bookJsonString;
     }
 }
