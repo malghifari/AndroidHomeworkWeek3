@@ -20,10 +20,10 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        mBookInput = (EditText) mBookInput.findViewById(R.id.bookInput);
-        mSearchButton = (Button) mSearchButton.findViewById(R.id.searchButton);
-        mTitleText = (TextView) mTitleText.findViewById(R.id.tittleText);
-        mAuthorText = (TextView) mAuthorText.findViewById(R.id.authorText);
+        mBookInput = (EditText) findViewById(R.id.bookInput);
+        mSearchButton = (Button) findViewById(R.id.searchButton);
+        mTitleText = (TextView) findViewById(R.id.tittleText);
+        mAuthorText = (TextView) findViewById(R.id.authorText);
     }
 
     public void searchBooks(View view) {
