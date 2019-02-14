@@ -14,4 +14,18 @@
         android:text="Notify Me!"
         android:layout_margin="4dp" />
 
+    <Button
+        android:id="@+id/update"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Update Me!"
+        android:layout_margin="4dp" />
+
+    <Button
+        android:id="@+id/cancel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Cancel Me!"
+        android:layout_margin="4dp" />
+
 </LinearLayout>
