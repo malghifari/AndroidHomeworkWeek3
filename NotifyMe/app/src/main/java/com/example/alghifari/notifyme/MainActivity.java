@@ -45,6 +45,9 @@ public class MainActivity extends AppCompatActivity {
                 cancelNotification();
             }
         });
+        mButtonNotify.setEnabled(true);
+        mButtonUpdate.setEnabled(false);
+        mButtonCancel.setEnabled(false);
     }
     public void sendNotification() {
         Intent notificationIntent = new Intent(this, MainActivity.class);
@@ -59,6 +62,9 @@ public class MainActivity extends AppCompatActivity {
                 .setDefaults(NotificationCompat.DEFAULT_ALL);
         Notification myNotification = notifyBuilder.build();
         mNotifyManager.notify(NOTIFICATION_ID, myNotification);
+        mButtonNotify.setEnabled(false);
+        mButtonUpdate.setEnabled(true);
+        mButtonCancel.setEnabled(true);
     }
     public void updateNotification() {
         Bitmap androidImage = BitmapFactory
@@ -76,8 +82,14 @@ public class MainActivity extends AppCompatActivity {
                         .bigPicture(androidImage)
                         .setBigContentTitle("Notification Updated!"));
         mNotifyManager.notify(NOTIFICATION_ID, notifyBuilder.build());
+        mButtonNotify.setEnabled(false);
+        mButtonUpdate.setEnabled(false);
+        mButtonCancel.setEnabled(true);
     }
     public void cancelNotification() {
         mNotifyManager.cancel(NOTIFICATION_ID);
+        mButtonNotify.setEnabled(true);
+        mButtonUpdate.setEnabled(false);
+        mButtonCancel.setEnabled(false);
     }
 }
