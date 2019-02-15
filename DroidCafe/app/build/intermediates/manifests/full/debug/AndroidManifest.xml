@@ -47,6 +47,18 @@ limitations under the License.
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value=".MainActivity" />
         </activity>
+        <activity
+            android:name="com.example.android.droidcafe.SettingsActivity"
+            android:label="@string/title_activity_settings"
+            android:parentActivityName="com.example.android.droidcafe.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.android.droidcafe.MainActivity" />
+        </activity>
+
+        <meta-data
+            android:name="android.support.VERSION"
+            android:value="25.4.0" />
     </application>
 
 </manifest>

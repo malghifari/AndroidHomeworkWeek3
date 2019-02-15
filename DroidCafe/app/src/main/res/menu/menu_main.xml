@@ -39,4 +39,9 @@ limitations under the License. -->
         android:title="@string/action_favorites"
         android:icon="@drawable/ic_favorites_white"
         app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="50"
+        android:title="@string/settings"
+        app:showAsAction="never" />
 </menu>

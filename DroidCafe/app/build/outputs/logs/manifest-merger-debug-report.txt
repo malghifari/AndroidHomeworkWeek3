@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/src/main/AndroidManifest.xml:16:1-44:12
+ADDED from /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/src/main/AndroidManifest.xml:16:1-53:12
 	package
 		ADDED from /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/src/main/AndroidManifest.xml:17:5-44
 		INJECTED from /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/src/main/AndroidManifest.xml
@@ -14,18 +14,18 @@ ADDED from /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academi
 		INJECTED from /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/src/main/AndroidManifest.xml
 		INJECTED from /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/src/main/AndroidManifest.xml
 application
-ADDED from /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/src/main/AndroidManifest.xml:19:5-42:19
+ADDED from /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/src/main/AndroidManifest.xml:19:5-51:19
 MERGED from [com.android.support:design:25.0.1] /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:appcompat-v7:25.0.1] /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:animated-vector-drawable:25.0.1] /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:25.0.1] /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.4.0/AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:transition:25.0.1] /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:25.0.1] /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:25.0.1] /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:25.0.1] /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:25.0.1] /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:25.0.1] /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:25.0.1] /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.4.0] /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.4.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:25.4.0] /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.4.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:25.4.0] /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.4.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:25.4.0] /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.4.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:25.4.0] /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.4.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:25.4.0] /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.4.0/AndroidManifest.xml:25:5-29:19
 	android:label
 		ADDED from /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/src/main/AndroidManifest.xml:22:9-41
 	android:supportsRtl
@@ -55,33 +55,41 @@ ADDED from /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academi
 	android:name
 		ADDED from /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/src/main/AndroidManifest.xml:32:27-74
 activity#com.example.android.droidcafe.OrderActivity
-ADDED from /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/src/main/AndroidManifest.xml:35:9-41:20
+ADDED from /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/src/main/AndroidManifest.xml:35:9-42:20
 	android:label
-		ADDED from /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/src/main/AndroidManifest.xml:36:13-57
+		ADDED from /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/src/main/AndroidManifest.xml:37:13-57
 	android:parentActivityName
-		ADDED from /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/src/main/AndroidManifest.xml:37:13-84
+		ADDED from /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/src/main/AndroidManifest.xml:38:13-55
 	android:name
-		ADDED from /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/src/main/AndroidManifest.xml:35:19-48
+		ADDED from /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/src/main/AndroidManifest.xml:36:13-42
 meta-data#android.support.PARENT_ACTIVITY
-ADDED from /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/src/main/AndroidManifest.xml:38:13-40:48
+ADDED from /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/src/main/AndroidManifest.xml:39:13-41:49
 	android:value
-		ADDED from /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/src/main/AndroidManifest.xml:40:17-46
+		ADDED from /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/src/main/AndroidManifest.xml:41:17-46
 	android:name
-		ADDED from /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/src/main/AndroidManifest.xml:39:17-63
+		ADDED from /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/src/main/AndroidManifest.xml:40:17-63
+activity#com.example.android.droidcafe.SettingsActivity
+ADDED from /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/src/main/AndroidManifest.xml:43:9-50:20
+	android:label
+		ADDED from /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/src/main/AndroidManifest.xml:45:13-60
+	android:parentActivityName
+		ADDED from /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/src/main/AndroidManifest.xml:46:13-55
+	android:name
+		ADDED from /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/src/main/AndroidManifest.xml:44:13-45
 uses-sdk
 INJECTED from /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:design:25.0.1] /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/AndroidManifest.xml:21:5-23:62
 MERGED from [com.android.support:appcompat-v7:25.0.1] /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:animated-vector-drawable:25.0.1] /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.0.1] /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.4.0/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:recyclerview-v7:25.0.1] /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:transition:25.0.1] /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:25.0.1] /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.0.1] /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.0.1] /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.0.1] /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.0.1] /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:25.0.1] /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-v4:25.4.0] /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.4.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.4.0] /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.4.0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.4.0] /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.4.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.4.0] /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.4.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.4.0] /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.4.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.4.0] /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.4.0/AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
 		ADDED from [com.android.support:design:25.0.1] /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
@@ -90,3 +98,15 @@ MERGED from [com.android.support:support-compat:25.0.1] /run/media/alghifari/Hom
 	android:minSdkVersion
 		INJECTED from /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/src/main/AndroidManifest.xml
 		INJECTED from /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-vector-drawable:25.4.0] /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.4.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:25.4.0] /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.4.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:25.4.0] /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.4.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:25.4.0] /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.4.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:25.4.0] /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.4.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:25.4.0] /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.4.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:25.4.0] /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.4.0/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-vector-drawable:25.4.0] /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.4.0/AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:support-vector-drawable:25.4.0] /run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.4.0/AndroidManifest.xml:24:13-51

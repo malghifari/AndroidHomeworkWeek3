@@ -3,120 +3,21 @@
 
     <item
         is-multidex="false"
-        jar="/home/alghifari/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jar="/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.4.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
-        <dex dex="/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_a660d85e48422d324d7c650356e74d21fa199236.jar" />
+        sha1="d29e451fd5bcc265989bf80afd4f149d95d72e7d">
+        <dex dex="/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.4.0_b045013a7cef7fda4cd96b697f9c7f4d2c74767f.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jar="/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.4.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
-        <dex dex="/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_3ee0b869b2e0b0263af141f57ff329142a3c3432.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
-        <dex dex="/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_c9a35e7e08138ac584eeed4fead562d8cc639d45.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
-        <dex dex="/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_45537c6e4033431bb9efdc2b84cf3e0d892c31ac.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
-        <dex dex="/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_094691cc7fb281a5c88f963fa31d76a7b7e63150.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
-        <dex dex="/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_58ac7428c3ddf2e3c35d59d7e55920ae14333a43.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
-        <dex dex="/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_45d0574605aafd61f05c8f811511557ee0d7e5e9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
-        <dex dex="/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_eec8540d9e877c87942d18a4bf6d6f7e5bc29572.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
-        <dex dex="/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_0cbe5dfcce71764e5c7dc82d7924efcb7f8ad1e7.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
-        <dex dex="/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_c4eb650310d4d925272a262bc46517f3db2f792d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="f83b00041ecfba705603fec40363416c7de69719">
-        <dex dex="/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_6bce7e36071e3fe9597a238cbf7b3e7986b2839f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_1f5dcc6a6e55b03d17d876df2d861e921225e2f6.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
-        <dex dex="/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.1_5fb51536afc80ac1c35ef00226e8c9503403ff45.jar" />
+        sha1="e04f28ac2dd9bbe48ced6fc87fedf46c2586f5d6">
+        <dex dex="/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.4.0_67ca848803329c8c05aa117885d476ae5eb45f83.jar" />
     </item>
     <item
         is-multidex="false"
@@ -129,12 +30,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jar="/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.4.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
-        <dex dex="/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_4aa6b32ef2208264938482341b73b4c16f2a1b3e.jar" />
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.4.0_bf9c2379f5d3a7be2a81476c59a877bf552e987d.jar" />
     </item>
     <item
         is-multidex="false"
@@ -147,21 +48,75 @@
     </item>
     <item
         is-multidex="false"
-        jar="/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
-        <dex dex="/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_53562784aca3132facfeca2f33f75d64f8eb2a84.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
         <dex dex="/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.0.1_6dbeabab18ef47463a8857c1884e3e03cf7faef2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2deeac83ffa1304264bc755c2ddb84e7a7fa239">
+        <dex dex="/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.4.0_c8328b6c8eaa2fd86eb6f35448890b37ff6fb2c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_58ac7428c3ddf2e3c35d59d7e55920ae14333a43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alghifari/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/25.4.0/f6a2fc748ae3769633dea050563e1613e93c135e/support-annotations-25.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f6a2fc748ae3769633dea050563e1613e93c135e">
+        <dex dex="/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/pre-dexed/debug/support-annotations-25.4.0_a80064a85a644f97b7637c3c2395aa34c94d0b60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b77e50b3c31d0fc64148530f7077f79ec114b5b9">
+        <dex dex="/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.4.0_38c2a812923127f757825a40fe1e52cddcf9129b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a64026daf4819a589aea776f5deb19b257a104d1">
+        <dex dex="/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.4.0_300ee967ded7b40896ad4cb0482f25f9851bbba1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.1_5fb51536afc80ac1c35ef00226e8c9503403ff45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="05e3d15c623cd98f0eb43c8249fb6151fae0786c">
+        <dex dex="/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.4.0_132f97932c3601f354bc0f6fcee6150d936df613.jar" />
     </item>
 
 </items>
