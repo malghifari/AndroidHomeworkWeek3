@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_status_white.png",
+        "source": "/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/src/main/res/drawable-mdpi/ic_status_white.png"
+    },
+    {
+        "merged": "/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_fab_white.png",
+        "source": "/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/src/main/res/drawable-mdpi/ic_fab_white.png"
+    },
+    {
+        "merged": "/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_order_white.png",
+        "source": "/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/src/main/res/drawable-mdpi/ic_order_white.png"
+    },
+    {
+        "merged": "/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_favorites_white.png",
+        "source": "/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/src/main/res/drawable-mdpi/ic_favorites_white.png"
+    },
+    {
+        "merged": "/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_map.png",
+        "source": "/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/src/main/res/drawable-mdpi/ic_map.png"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_order_white.png",
+        "source": "/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/src/main/res/drawable-hdpi/ic_order_white.png"
+    },
+    {
+        "merged": "/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_fab_white.png",
+        "source": "/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/src/main/res/drawable-hdpi/ic_fab_white.png"
+    },
+    {
+        "merged": "/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_map.png",
+        "source": "/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/src/main/res/drawable-hdpi/ic_map.png"
+    },
+    {
+        "merged": "/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_status_white.png",
+        "source": "/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/src/main/res/drawable-hdpi/ic_status_white.png"
+    },
+    {
+        "merged": "/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_favorites_white.png",
+        "source": "/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/DroidCafe/app/src/main/res/drawable-hdpi/ic_favorites_white.png"
+    }
+]
