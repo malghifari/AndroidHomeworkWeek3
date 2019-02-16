@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/alghifari/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/WordListSql finished/app/build/intermediates/pre-dexed/debug/support-annotations-24.1.1_5f70da69c98a452ccd55a81e18ff6d29ba3cf9ec.jar" />
+    </item>
+    <item
+        jar="/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/WordListSql finished/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/WordListSql finished/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.1.1_05dfb6008af4122c18891769a7a2c41a2de461b8.jar" />
+    </item>
+    <item
+        jar="/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/WordListSql finished/app/build/intermediates/exploded-aar/com.android.support/design/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/WordListSql finished/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.1.1_0c4602b646e025ab974a8a64f605e6c352e98b15.jar" />
+    </item>
+    <item
+        jar="/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/WordListSql finished/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/WordListSql finished/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.1.1_c6e4fa1d846885c88aea2bbc3067a0b9b1d1d814.jar" />
+    </item>
+    <item
+        jar="/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/WordListSql finished/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/WordListSql finished/app/build/intermediates/pre-dexed/debug/internal_impl-24.1.1_c6b2701e55a6ac5adda85ddc6f95a3530b6fe6a5.jar" />
+    </item>
+    <item
+        jar="/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/WordListSql finished/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/WordListSql finished/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.1.1_7447795412790ec85f0e76011648d53a6a937d97.jar" />
+    </item>
+    <item
+        jar="/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/WordListSql finished/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/WordListSql finished/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.1.1_88c4d22aed2e56931f2168148664ca01c6dcf09f.jar" />
+    </item>
+    <item
+        jar="/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/WordListSql finished/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/run/media/alghifari/Home/Knowledge/ComputerScience/MyProject/Academic/Semester6/PBD/AndroidHomeworkWeek3/WordListSql finished/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.1.1_765f41fd0a7ca6b2db0e8a5052c109d211b71429.jar" />
+    </item>
+
+</items>
